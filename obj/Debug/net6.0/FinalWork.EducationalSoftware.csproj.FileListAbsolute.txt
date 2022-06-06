@@ -1,0 +1,15 @@
+C:\Users\jefte\OneDrive\Área de Trabalho\C#\FinalWork.EducationalSoftware\bin\Debug\net6.0\FinalWork.EducationalSoftware.exe
+C:\Users\jefte\OneDrive\Área de Trabalho\C#\FinalWork.EducationalSoftware\bin\Debug\net6.0\FinalWork.EducationalSoftware.deps.json
+C:\Users\jefte\OneDrive\Área de Trabalho\C#\FinalWork.EducationalSoftware\bin\Debug\net6.0\FinalWork.EducationalSoftware.runtimeconfig.json
+C:\Users\jefte\OneDrive\Área de Trabalho\C#\FinalWork.EducationalSoftware\bin\Debug\net6.0\FinalWork.EducationalSoftware.dll
+C:\Users\jefte\OneDrive\Área de Trabalho\C#\FinalWork.EducationalSoftware\bin\Debug\net6.0\FinalWork.EducationalSoftware.pdb
+C:\Users\jefte\OneDrive\Área de Trabalho\C#\FinalWork.EducationalSoftware\obj\Debug\net6.0\FinalWork.EducationalSoftware.csproj.AssemblyReference.cache
+C:\Users\jefte\OneDrive\Área de Trabalho\C#\FinalWork.EducationalSoftware\obj\Debug\net6.0\FinalWork.EducationalSoftware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jefte\OneDrive\Área de Trabalho\C#\FinalWork.EducationalSoftware\obj\Debug\net6.0\FinalWork.EducationalSoftware.AssemblyInfoInputs.cache
+C:\Users\jefte\OneDrive\Área de Trabalho\C#\FinalWork.EducationalSoftware\obj\Debug\net6.0\FinalWork.EducationalSoftware.AssemblyInfo.cs
+C:\Users\jefte\OneDrive\Área de Trabalho\C#\FinalWork.EducationalSoftware\obj\Debug\net6.0\FinalWork.EducationalSoftware.csproj.CoreCompileInputs.cache
+C:\Users\jefte\OneDrive\Área de Trabalho\C#\FinalWork.EducationalSoftware\obj\Debug\net6.0\FinalWork.EducationalSoftware.dll
+C:\Users\jefte\OneDrive\Área de Trabalho\C#\FinalWork.EducationalSoftware\obj\Debug\net6.0\refint\FinalWork.EducationalSoftware.dll
+C:\Users\jefte\OneDrive\Área de Trabalho\C#\FinalWork.EducationalSoftware\obj\Debug\net6.0\FinalWork.EducationalSoftware.pdb
+C:\Users\jefte\OneDrive\Área de Trabalho\C#\FinalWork.EducationalSoftware\obj\Debug\net6.0\FinalWork.EducationalSoftware.genruntimeconfig.cache
+C:\Users\jefte\OneDrive\Área de Trabalho\C#\FinalWork.EducationalSoftware\obj\Debug\net6.0\ref\FinalWork.EducationalSoftware.dll
